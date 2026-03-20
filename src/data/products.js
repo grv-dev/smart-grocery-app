@@ -36,3 +36,5 @@ const products = [
        category: "Dairy",
     }
 ];
+
+export default products;

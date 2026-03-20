@@ -13,7 +13,7 @@ function App() {
  const [theme, setTheme] = useState('light');
 
  const user = {
-   name: 'Neeraj',
+   name: 'Gaurav',
    role: 'Customer'
  };
 
